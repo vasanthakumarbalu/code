@@ -1,0 +1,16 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "projectName": {
+            "value": "nordcloudflask"
+        },
+        "adminUsername": {
+            "value": "vasanthadmin"
+        },
+        "adminPasswordOrKey": {
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAgO3Us920BzET0NWq9hUfmgi0Wo+zWbLRkBffip/sLS6Hff9LG7ruzYJ85bo8977n5Dm2F3/jlUOSxAr7jlIozervsq2nTutj3AB7Bev7e1cDoQUZG9BmzOToGtO30Xtg7yJohNZjTqSLBVz4s3yKHQ3++207OnXlPW8sIj+tQ90BXYLdTns1MDV9NIasF0mqnVId9gFDhn2B7JRWhKZSg7mIAREAeOJq8dKn9oIBzP9RpdedZdYhbKn9qcBL8e6v4vRoQjvKIAdeoibFgYjx+6ybwfl3OK8jtoeFGCGNhHu77mCFsYTjnniaziAo0d87HLVGfJYZ5o1lgnKhjUgp6Q== rsa-key-20200216"
+        }
+        
+    }
+}
